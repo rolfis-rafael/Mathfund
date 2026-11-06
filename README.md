@@ -21,4 +21,3 @@ Plataforma educacional de matemática para crianças do fundamental 2, criada pa
 
 <img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/c56a7093-5be9-4025-b79c-92bc3cd30a39" />
 
-
