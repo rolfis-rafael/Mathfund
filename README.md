@@ -3,9 +3,9 @@ Plataforma educacional de matemática para crianças do fundamental 2, criada pa
 
 ## 🌐 Acesse o MathFund
 
-👉 [**Visitar o site**](mathfund.rf.gd)
+ [**Visitar o site**](mathfund.rf.gd)
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - HTML
 - CSS
@@ -13,7 +13,7 @@ Plataforma educacional de matemática para crianças do fundamental 2, criada pa
 - PHP
 - MySQL
 
-## 📸 Preview
+## Preview
 
 <img width="1917" height="1002" alt="captura01" src="https://github.com/user-attachments/assets/7e0dabc6-c108-4b44-ad1c-c500a5175764" />
 
